@@ -42,8 +42,6 @@ importers:
         specifier: ^7.0.4
         version: 7.1.12
 
-  client/ai-nest-client-app: {}
-
 packages:
 
   '@babel/code-frame@7.27.1':
