@@ -1,0 +1,12 @@
+{
+  "name": "ai-nest",
+  "version": "1.0.0",
+  "description": "- 基础核心\r   - 数据结构与算法| 优化\r   - ts python sql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
